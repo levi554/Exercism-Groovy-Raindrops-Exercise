@@ -1,0 +1,8 @@
+#.gitignore for this file
+
+.exercism/
+.gradle/
+.idea/
+build/
+gradle/
+
